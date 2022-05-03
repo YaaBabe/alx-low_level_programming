@@ -1,1 +1,1 @@
-readme for pointers array
+read me for pointers array
